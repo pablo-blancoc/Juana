@@ -6,6 +6,7 @@
 [![version](https://img.shields.io/badge/version-v1.0-red.svg)]()
 [![Operating System](https://img.shields.io/badge/Supports-macOS-blue.svg)]()
 [![Creator](https://img.shields.io/badge/Maintained%20by-Pablo%20Blanco-important.svg)](http://pabloblanco.me)
+[![Download](https://img.shields.io/badge/Download-Free-success.svg)](https://github.com/pablo-blancoc/Juana/releases/download/v1.0/Juana.zip)
 
 ____
 
