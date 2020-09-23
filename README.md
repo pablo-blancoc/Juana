@@ -1,4 +1,4 @@
-<img src="Juana.png" width="1024" height="1024" alt="Juana's App Logo">
+<img src="Juana.png" width="2553" height="945" alt="Juana's App Logo">
 
 
 # Juana Personal Assistant
@@ -6,6 +6,8 @@
 [![version](https://img.shields.io/badge/version-v1.0-red.svg)]()
 [![Operating System](https://img.shields.io/badge/Supports-macOS-blue.svg)]()
 [![Creator](https://img.shields.io/badge/Maintained%20by-Pablo%20Blanco-important.svg)](http://pabloblanco.me)
+
+____
 
 ### Hi!
 This is Juana, my custom-made personal assistant. This is a project I have been working on in my
@@ -44,7 +46,7 @@ to test it on a Windows computer.
 
 ### Final notes:
 Juana is like a baby to me. I had a great time coding it and still have. I hope, if you get to use
-it, that you enjoy it the same way I do.  
+it, that you enjoy it the same way I do.
 
 ____
 
