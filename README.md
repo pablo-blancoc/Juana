@@ -1,4 +1,4 @@
-<img src="Juana.png" width="2553" height="945" alt="Juana's App Logo">
+<img src="Juana.png" alt="Juana's App Logo">
 
 
 # Juana Personal Assistant
